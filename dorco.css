@@ -279,14 +279,14 @@ body {
 
 #section .main .main_button .prev {
     position: absolute;
-    left: 843px;
-    top: 902px;
+    right: 50%;
+    bottom: 0px;
 }
 
 #section .main .main_button .next {
     position: absolute;
-    left: 952px;
-    top: 902px;
+    left: 50%;
+    bottom: 0px;
 }
 
 #section .main .main_button .prev:hover,
